@@ -1,0 +1,28 @@
+.board{
+    
+   
+     align-items: center;
+    
+}
+.row{
+    display: flex;
+    justify-content: center;
+
+}
+.turn{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+.RESTART button{
+    background-color: transparent;
+    font-size: 50PX;
+    height: 60PX;
+    width: 300PX;
+    text-align: center;
+    border-color: transparent;
+    border-width: 5PX;
+    padding-bottom: 5PX;
+    color: rgb(15, 18, 16);
+    font-family:   sans-serif;
+
+}
